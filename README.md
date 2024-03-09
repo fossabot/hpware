@@ -6,11 +6,12 @@
 - 😄 Pronouns: he/him
 
 
-### What I'm Learning 
-- Python
-- Linux Debian
-- mySQL
-- Windows SQL
-- HTML
-- ASPX
-- Github
+### What I'm Learning 📖
+- 🐍 Python
+- 🐧 Linux Debian
+- 💾 mySQL
+- 💾 Windows SQL
+- 🌐 HTML
+- 🌐 ASPX
+- #️⃣ Github
+- #️⃣ C++
